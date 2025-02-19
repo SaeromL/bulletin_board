@@ -41,6 +41,11 @@
 
 <p>4️⃣ Open <code>http://localhost:8080</code> in your browser.</p>
 
+<h3>Screenshots</h3>
+
+<img width="800" alt="Screenshot1" src="https://github.com/user-attachments/assets/53820bc8-e962-4c95-b6f7-db96128904cc" />
+<img width="800" alt="Screenshot2" src="https://github.com/user-attachments/assets/a249e2a2-d73d-4edf-85ed-69d28a3e5f2b" />
+
 <h3>Coursework Context</h3>
 
 📌 Course Name: Advanced Java<br>
